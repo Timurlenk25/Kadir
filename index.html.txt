@@ -3,21 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Abdulkadir | İşlerim</title>
+  <title> Abdulkadir | İşlerim </title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Abdulkadir</h1>
-    <p>Yaratıcı işler, profesyonel çözümler</p>
+    <h1> Abdulkadir </h1>
+    <p> Yaratıcı işler, profesyonel çözümler </p>
   </header>
 
   <section id="projects">
-    <h2>Projelerim</h2>
+    <h2> Projelerim </h2>
     <div class="project-card">
       <img src="ornek-proje.jpg" alt="Proje görseli">
-      <h3>Proje Adı</h3>
-      <p>Kısa açıklama...</p>
+      <h3> Proje Adı </h3>
+      <p> Kısa açıklama... </p>
     </div>
   </section>
 
