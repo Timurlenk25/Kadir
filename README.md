@@ -1,4 +1,0 @@
-# Kadir
-Projeler 
-  İşler
-  
